@@ -1,0 +1,23 @@
+Directory Structure:
+    1. Data
+        1. Local
+            a. Dao
+            b. Database
+            c. Entity
+        2. Remote
+        3. Repository
+        4. Mapper
+    2. DI
+    3. Domain
+        1. Model
+        2. Repository
+        3. UseCas
+        4. Validator
+    4. Model
+        1. Local
+        2. Remote
+    5. Presentation
+    6. View
+    7. Utils
+
+
